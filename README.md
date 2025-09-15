@@ -43,7 +43,7 @@
 
 ### 🔹 Giao diện chính (Java Swing)
 - Giao diện với hai tab: Quản lý Sinh viên (danh sách sinh viên với menu chức năng) và Quản lý Điểm.  
-![Main GUI](https://via.placeholder.com/800x500.png?text=Student+Management+GUI+with+Tabs)
+<img src="docs/ Quản lý Sinh viên.png" alt="AIoTLab Logo" width="170"/>
 
 ### 🔹 Tab Quản lý Sinh viên
 - Hiển thị danh sách sinh viên, tìm kiếm theo tên hoặc ID, thêm sinh viên mới, menu chức năng (Xem chi tiết, Sửa, Xóa) với icon.  
