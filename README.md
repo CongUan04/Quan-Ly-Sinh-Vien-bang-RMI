@@ -57,7 +57,7 @@
 ### 🔹 Thêm sinh viên mới
 - Form nhập thông tin sinh viên.  
 <p align="center">
-<img src="docs/Screenshot 2025-09-14 161614.png" alt="AIoTLab Logo" width="800"/>
+<img src="docs/ThemMoiSinhVien.png" alt="AIoTLab Logo" width="800"/>
 </p>
 
 ### 🔹 Xem chi tiết sinh viên
