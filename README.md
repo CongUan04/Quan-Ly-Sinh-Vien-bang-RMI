@@ -51,31 +51,31 @@
 ### 🔹 Tab Quản lý Điểm
 - Hiển thị danh sách điểm số, cập nhật điểm cho từng sinh viên.  
 <p align="center">
-<img src="docs/QuanLyDiem.png" alt="AIoTLab Logo" width="800"/>
+<img src="docs/QuanLyDiem.png" alt="AIoTLab Logo" width="600"/>
 </p>
 
 ### 🔹 Thêm sinh viên mới
 - Form nhập thông tin sinh viên.  
 <p align="center">
-<img src="docs/ThemMoiSinhVien.png" alt="AIoTLab Logo" width="800"/>
+<img src="docs/ThemMoiSinhVien.png" alt="AIoTLab Logo" width="6600"/>
 </p>
 
 ### 🔹 Xem chi tiết sinh viên
 - Hiển thị đầy đủ thông tin và điểm số (read-only).  
 <p align="center">
-<img src="docs/XemChiTiet.png" alt="AIoTLab Logo" width="800"/>
+<img src="docs/XemChiTiet.png" alt="AIoTLab Logo" width="600"/>
 </p>
 
 ### 🔹 Cập nhật sinh viên
 - Form sửa thông tin sinh viên.  
 <p align="center">
-<img src="docs/CapNhatSinhVien.png" alt="AIoTLab Logo" width="800"/>
+<img src="docs/CapNhatSinhVien.png" alt="AIoTLab Logo" width="600"/>
 </p>
 
 ### 🔹 Cập nhật điểm
 - Form cập nhật điểm số (Toán, Văn, Anh).  
 <p align="center">
-<img src="docs/CapNhatDiem.png" alt="AIoTLab Logo" width="800"/>
+<img src="docs/CapNhatDiem.png" alt="AIoTLab Logo" width="600"/>
 </p>
 
 ---
