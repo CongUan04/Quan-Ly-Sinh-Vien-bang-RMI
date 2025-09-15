@@ -42,34 +42,41 @@
 ## 3. Hình ảnh các chức năng
 
 ### 🔹 Giao diện chính (Java Swing)
-- Giao diện với hai tab: Quản lý Sinh viên (danh sách sinh viên với menu chức năng) và Quản lý Điểm.  
-<img src="docs/ Quản lý Sinh viên.png" alt="AIoTLab Logo" width="170"/>
-
-### 🔹 Tab Quản lý Sinh viên
-- Hiển thị danh sách sinh viên, tìm kiếm theo tên hoặc ID, thêm sinh viên mới, menu chức năng (Xem chi tiết, Sửa, Xóa) với icon.  
-![Student Tab](https://via.placeholder.com/800x500.png?text=Student+Management+Tab)
+- Giao diện với hai tab: Quản lý Sinh viên (danh sách sinh viên với menu chức năng) và Quản lý Điểm.
+- Hiển thị danh sách sinh viên, tìm kiếm theo tên hoặc ID, thêm sinh viên mới, menu chức năng (Xem chi tiết, Sửa, Xóa)
+<p align="center">
+<img src="docs/QuanLySinhVien.png" alt="AIoTLab Logo" width="800"/>
+</p>
 
 ### 🔹 Tab Quản lý Điểm
 - Hiển thị danh sách điểm số, cập nhật điểm cho từng sinh viên.  
-![Score Tab](https://via.placeholder.com/800x500.png?text=Score+Management+Tab)
+<p align="center">
+<img src="docs/QuanLyDiem.png" alt="AIoTLab Logo" width="800"/>
+</p>
 
 ### 🔹 Thêm sinh viên mới
 - Form nhập thông tin sinh viên.  
-![Add Student](https://via.placeholder.com/350x250.png?text=Add+Student+Form)
+<p align="center">
+<img src="docs/Screenshot 2025-09-14 161614.png" alt="AIoTLab Logo" width="800"/>
+</p>
 
 ### 🔹 Xem chi tiết sinh viên
 - Hiển thị đầy đủ thông tin và điểm số (read-only).  
-![View Detail](https://via.placeholder.com/350x300.png?text=View+Student+Detail)
+<p align="center">
+<img src="docs/XemChiTiet.png" alt="AIoTLab Logo" width="800"/>
+</p>
 
 ### 🔹 Cập nhật sinh viên
 - Form sửa thông tin sinh viên.  
-![Edit Student](https://via.placeholder.com/350x250.png?text=Edit+Student+Form)
+<p align="center">
+<img src="docs/CapNhatSinhVien.png" alt="AIoTLab Logo" width="800"/>
+</p>
 
 ### 🔹 Cập nhật điểm
 - Form cập nhật điểm số (Toán, Văn, Anh).  
-![Edit Score](https://via.placeholder.com/350x250.png?text=Edit+Score+Form)
-
-*(Hình ảnh demo có thể thay bằng screenshot thực tế sau khi chạy ứng dụng. Sử dụng placeholder tạm thời.)*
+<p align="center">
+<img src="docs/CapNhatDiem.png" alt="AIoTLab Logo" width="800"/>
+</p>
 
 ---
 
